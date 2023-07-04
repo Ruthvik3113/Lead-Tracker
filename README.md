@@ -7,8 +7,8 @@ Lead Tracker is a web extension that allows users to save URLs in local storage 
 2. **Save Tab**: With the "Save Tab" functionality, users can save the URL of the currently active tab in their browser. This feature is convenient when users come across a valuable lead while browsing and want to save it without manually entering the URL.
 
 3. **Delete all**: By double-clicking on the extension's list of saved URLs, users can instantly clear the entire list. This functionality provides an easy way to remove all the saved leads when needed.
-![image](https://github.com/Ruthvik3113/Lead-Tracker/assets/82648438/ba7abd8d-9ff7-45f3-8313-1b17fd13e876)
 
+![image](https://github.com/Ruthvik3113/Lead-Tracker/assets/82648438/ba7abd8d-9ff7-45f3-8313-1b17fd13e876)
 
 ## Installation
 
@@ -31,6 +31,7 @@ Once the Lead Tracker extension is installed, you can start using it by followin
 3. To save the URL of the currently active tab, click the "Save Tab" button. The extension will automatically capture and save the URL.
 4. To delete all the saved URLs, double-click on the list of saved URLs. Confirm the action if prompted.
 5. To visit a saved URL, simply click on the desired URL in the list. The corresponding web page will open in a new tab.
+   
 ![image](https://github.com/Ruthvik3113/Lead-Tracker/assets/82648438/5a617778-7c55-4b0f-97c0-25bd592ec4ca)
 
 
